@@ -41,7 +41,7 @@ Building modern, responsive, and user-friendly web interfaces
 </p>
 
 <p align="center">
-⭐ Feel free to explore my repositories
+⭐ Feel free to explore my repositories!
 </p>
 
 
