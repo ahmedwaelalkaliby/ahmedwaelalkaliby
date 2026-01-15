@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋 I'm Ahmed Wael Alkaliby</h1>
 
 <h3 align="center">
-Frontend Developer | React • Next.js
+Frontend Developer • React • Next.js
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedwaelalkaliby&label=Profile%20Views&color=0e75b6&style=flat" />
+Building modern, responsive, and user-friendly web interfaces
 </p>
 
 ---
 
 ### 🚀 About Me
-- Front-End Developer building modern & responsive web applications  
-- Passionate about clean UI, performance, and scalable frontend architecture  
+- Front-End Developer focused on modern web applications  
+- Strong interest in clean UI, performance, and maintainable code  
+- Enjoy working with React ecosystem and modern CSS frameworks  
 
 ---
 
@@ -23,7 +24,8 @@ Frontend Developer | React • Next.js
 
 <p align="center">
   <img src="https://img.shields.io/badge/State%20Management-Redux%20Toolkit%20%7C%20Zustand-blue" />
-  <img src="https://img.shields.io/badge/Forms-React%20Hook%20Form%20%7C%20Zod-green" />
+  <img src="https://img.shields.io/badge/API-REST%20APIs-orange" />
+  <img src="https://img.shields.io/badge/UI-Responsive%20Design-success" />
 </p>
 
 ---
@@ -39,6 +41,7 @@ Frontend Developer | React • Next.js
 </p>
 
 <p align="center">
-⭐ Feel free to explore my repositories!
+⭐ Feel free to explore my repositories
 </p>
+
 
